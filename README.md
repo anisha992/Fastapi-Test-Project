@@ -67,14 +67,3 @@ To trigger GitHub Actions manually:
 2. Check workflow runs in **GitHub Actions tab**.
 
 ---
-## 📌 Troubleshooting
-- **Test file not found?** Ensure `testAutomationPytest.py` exists and follows naming conventions (`test_*.py`).
-- **GitHub Actions failing?** Check logs in the **Actions tab** for missing dependencies.
-
----
-## 📜 License
-This project is open-source and available under the MIT License.
-
----
-## 👩‍💻 Author
-Developed by [Anisha Praveen](https://github.com/anisha992)
